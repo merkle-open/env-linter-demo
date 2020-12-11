@@ -1,0 +1,6 @@
+{
+  "name": "package-2",
+  "private": true,
+  "devDependencies": {
+  }
+}

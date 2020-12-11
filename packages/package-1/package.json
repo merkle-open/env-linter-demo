@@ -1,0 +1,9 @@
+{
+  "name": "package-1",
+  "private": true,
+  "scripts": {
+    "start": "~/Projects/env-linter/bin/index.js --hooksInstalled"
+  },
+  "devDependencies": {
+  }
+}
