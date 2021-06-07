@@ -2,7 +2,7 @@
   "name": "awesome-root-project",
   "private": true,
   "scripts": {
-    "prestart": "../env-linter/bin/index.js -vs -h -s -d -l",
+    "prestart": "node ../env-linter/bin/index.js -vs -h -s -d -l",
     "start": "node index.js"
   },
   "devDependencies": {
