@@ -1,12 +1,12 @@
 {
-  "name": "awesome-root-project",
+  "name": "env-linter-demo",
   "private": true,
   "scripts": {
     "prestart": "node ../env-linter/bin/index.js -vs -h -s -d -l",
     "start": "node index.js"
   },
   "devDependencies": {
-    "husky": "4.3.5",
+    "husky": "4.3.8",
     "lerna": "3.22.1"
   }
 }
